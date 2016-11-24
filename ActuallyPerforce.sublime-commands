@@ -1,0 +1,9 @@
+[
+    { "caption": "Perforce: p4 add", "command": "perforce_add" },
+    { "caption": "Perforce: p4 edit", "command": "perforce_edit" },
+    { "caption": "Perforce: p4 diff", "command": "perforce_diff" },
+    { "caption": "Perforce: p4 reconcile", "command": "perforce_reconcile" },
+    { "caption": "Perforce: p4 revert", "command": "perforce_revert" },
+    { "caption": "Perforce: p4 status", "command": "perforce_status" },
+    { "caption": "Perforce: p4 help", "command": "perforce_help" },
+]
